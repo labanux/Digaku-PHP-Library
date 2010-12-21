@@ -11,13 +11,13 @@
 class Digaku {
 	
 	// Sesuaikan dengan api_key anda
-	var $api_key = 'ed46136370057d6f99db08150c3edef2b0dc185b';
+	var $api_key = 'xxxx';
 	
 	// Sesuaikan dengan client_id / app_id anda
-	var $client_id = '4d07146afccf226557000000';
+	var $client_id = 'xxxxx';
 	
 	// Sesuaikan dengan client_secret anda
-	var $client_secret = 'dfda2e3ff7293b499fa09f8aa86b49f48334e60c';
+	var $client_secret = 'xxxxx';
 	
 	var $api = 'http://api.digaku.com/';
 	var $auth = 'http://auth.digaku.com/';
